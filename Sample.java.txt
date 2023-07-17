@@ -1,0 +1,32 @@
+</html>
+<body>
+    <form method="post" action="a.html">
+    <div class="form-group">
+    
+        <label>Games</label>
+    
+    <label>Cricket</label>
+    
+    <input type="checkbox" name="Games" Value="Cricket">
+    
+    <label>Chess</label>
+    
+    <input type="checkbox" name="Games" Value="Chess">
+    
+    <label>Kabadi</label>
+    
+    <input type="checkbox" name="Games" Value="Kabadi">
+    
+    <label>Football</label>
+    
+    <input type="checkbox" name="Games" Value="Football">
+    </div>
+    
+    
+    <input type="submit">
+
+    </form>
+
+    <body>
+
+    </html>
